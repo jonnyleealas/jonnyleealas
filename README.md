@@ -1,6 +1,6 @@
 ### Here's what I'm working on 👋
 
-<!--
+
 **jonnyleealas/jonnyleealas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some tidbits:
@@ -11,4 +11,4 @@ Here are some tidbits:
 - 💬 Ask me about music, Jiu Jitsu, tacos, selvedge denim, and all the internet stuff ...
 - 📫 How to reach me: jonnyleealas@gmail.com...
 - ⚡ Fun fact: Nunchucks and a record player were my first toys...
--->
+
