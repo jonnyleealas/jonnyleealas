@@ -1,0 +1,23 @@
+{
+  "name": "jonnyleealas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonnyleealas/jonnyleealas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonnyleealas/jonnyleealas/issues"
+  },
+  "homepage": "https://github.com/jonnyleealas/jonnyleealas#readme",
+  "dependencies": {
+    "simple-icons": "^3.9.0"
+  }
+}

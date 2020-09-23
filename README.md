@@ -13,7 +13,8 @@ Here are some tidbits:
 
 #
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[Lyft].svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/[Lyft]svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[simpleicons.].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/[ICON NAME].svg" />
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jonnyleealas&count_private=true&show_icons=true&theme=cobalt)
+
