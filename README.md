@@ -13,6 +13,10 @@ Here are some tidbits:
 
 #
 
+[![Spotify](https://novatorem-ecru-seven.vercel.app/api/spotify)](https://open.spotify.com/user/isiah56?si=4oh8scG7TtG_oZ9cB4P7oQ
+)
+
+
 
 ![Anurag's github stats](https://github-readme-stats-lac-mu.vercel.app/api?username=jonnyleealas&count_private=true&show_icons=true&theme=cobalt)
 
