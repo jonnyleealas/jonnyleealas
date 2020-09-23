@@ -14,7 +14,7 @@ Here are some tidbits:
 #
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jonnyleealas&count_private=true&show_icons=true&theme=cobalt)
+![Anurag's github stats](https://github-readme-stats-lac-mu.vercel.app/api?username=jonnyleealas&count_private=true&show_icons=true&theme=cobalt)
 
 
 
