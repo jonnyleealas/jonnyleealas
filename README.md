@@ -12,3 +12,4 @@ Here are some tidbits:
 - 📫 How to reach me: | [linkedin](https://www.linkedin.com/in/jonnyleealas/ ) | [instagram](https://www.instagram.com/iamjonnylee/) | 
 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jonnyleealas)](https://github.com/anuraghazra/github-readme-stats)
