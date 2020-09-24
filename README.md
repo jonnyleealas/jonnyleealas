@@ -22,13 +22,7 @@ Here are some tidbits:
 
 
 ![Anurag's github stats](https://github-readme-stats-lac-mu.vercel.app/api?username=jonnyleealas&count_private=true&show_icons=true&theme=cobalt)
-
-
-
-
-[![Build Status](https://travis-ci.com/simple-icons/simple-icons.svg?branch=develop)](https://travis-ci.com/simple-icons/simple-icons)
-[![npm version](https://img.shields.io/npm/v/simple-icons.svg)](https://www.npmjs.com/package/simple-icons)
-[![Packagist version](https://img.shields.io/packagist/v/simple-icons/simple-icons)](https://packagist.org/packages/simple-icons/simple-icons)
+<br/>
 
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
