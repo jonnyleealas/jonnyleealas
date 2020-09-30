@@ -17,9 +17,9 @@ https://simpleicons.org/
 
 Here are some tidbits:
 ```
-- 🔭 I’m currently working API with OAuth
-- 🤔 I’m looking for help with Jest testing ...
-- 💬 Ask me about music, tacos, selvedge denim, and all the internet stuff ...
+- 🔭 I’m currently working API with OAuth .
+- 🤔 I’m looking for help with Jest testing .
+- 💬 Ask me about music, tacos, selvedge denim, and all the internet stuff .
 ```
 
 
