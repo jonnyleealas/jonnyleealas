@@ -1,4 +1,16 @@
+<!--
 
+## Complete list of github markdown emoji markup
+https://gist.github.com/rxaviers/7360908
+
+## technologies Icons 
+https://simpleicons.org/
+
+-->
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/jonnyleealas/)
+
+[![Linkedin](https://img.shields.io/badge/Instagram-blue?logo=Instagram&logoColor=orange&labelColor=purple)](https://www.instagram.com/iamjonnylee/)
 
 ### Hello Git! 👋
 
@@ -11,9 +23,8 @@ Here are some tidbits:
 - 🤔 I’m looking for help with Jest testing ...
 - 💬 Ask me about music, tacos, selvedge denim, and all the internet stuff ...
 - 📫 How to reach me: | [linkedin](https://www.linkedin.com/in/jonnyleealas/ ) | [instagram](https://www.instagram.com/iamjonnylee/) | 
-#
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
-" />
+
+
 #
 **Currently listening to:**
 <br/>
