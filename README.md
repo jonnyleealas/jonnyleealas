@@ -15,6 +15,7 @@ https://simpleicons.org/
 
 ### Hi 👋, I'm Jonny! 
 
+<h2 align='center'><strong>Hi, I'm Jonny!</strong></h2>
 
 
 
