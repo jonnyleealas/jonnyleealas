@@ -7,12 +7,13 @@ https://gist.github.com/rxaviers/7360908
 https://simpleicons.org/
 
 -->
+📫 How to reach me: 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/jonnyleealas/)
 
 [![Linkedin](https://img.shields.io/badge/Instagram-blue?logo=Instagram&logoColor=orange&labelColor=purple)](https://www.instagram.com/iamjonnylee/)
 
-### Hello Git! 👋
+### Hi 👋, I'm Jonny! 
 
 
 
@@ -22,7 +23,7 @@ Here are some tidbits:
 - 🔭 I’m currently working API with OAuth
 - 🤔 I’m looking for help with Jest testing ...
 - 💬 Ask me about music, tacos, selvedge denim, and all the internet stuff ...
-- 📫 How to reach me: | [linkedin](https://www.linkedin.com/in/jonnyleealas/ ) | [instagram](https://www.instagram.com/iamjonnylee/) | 
+
 
 
 #
