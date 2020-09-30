@@ -13,8 +13,6 @@ https://simpleicons.org/
 
 [![Linkedin](https://img.shields.io/badge/Instagram-blue?logo=Instagram&logoColor=orange&labelColor=purple)](https://www.instagram.com/iamjonnylee/)
 
-### Hi 👋, I'm Jonny! 
-
 <h2 align='center'><strong>Hi 👋, I'm Jonny!</strong></h2>
 
 
