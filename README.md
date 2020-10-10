@@ -9,10 +9,8 @@ https://simpleicons.org/
 -->
 📫 How to reach me: 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/jonnyleealas/)[![Linkedin](https://img.shields.io/badge/Instagram-blue?logo=Instagram&logoColor=orange&labelColor=purple)](https://www.instagram.com/iamjonnylee/)
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/jonnyleealas/)[![Linkedin](https://img.shields.io/badge/Instagram-blue?logo=Instagram&logoColor=orange&labelColor=purple)](https://www.instagram.com/iamjonnylee/)[![Linkedin](https://img.shields.io/badge/ChatApp-blue?logo=heroku&logoColor=orange&labelColor=purple)](https://chatter-ball-z.herokuapp.com/)
 <h2 align='center'><strong>Hi 👋, I'm Jonny!</strong></h2>
-
 
 
 Here are some tidbits:
@@ -29,6 +27,7 @@ Here are some tidbits:
 [![Spotify](https://novatorem-ecru-seven.vercel.app/api/spotify)](https://open.spotify.com/user/isiah56?si=4oh8scG7TtG_oZ9cB4P7oQ
 )
 
+<h2 align='center'></h2>
 
 
 ![Anurag's github stats](https://github-readme-stats-lac-mu.vercel.app/api?username=jonnyleealas&count_private=true&show_icons=true&theme=cobalt)
