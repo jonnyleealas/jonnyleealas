@@ -10,7 +10,7 @@ https://simpleicons.org/
 📫 How to reach me: 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/jonnyleealas/)[![Linkedin](https://img.shields.io/badge/Instagram-blue?logo=Instagram&logoColor=orange&labelColor=purple)](https://www.instagram.com/iamjonnylee/)
-#
+
 💻 Try my apps:
 
 [![Linkedin](https://img.shields.io/badge/ChatApp-blue?logo=heroku&logoColor=orange&labelColor=purple)](https://chatter-ball-z.herokuapp.com/)
