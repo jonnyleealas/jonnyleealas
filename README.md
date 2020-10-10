@@ -22,6 +22,7 @@ Here are some tidbits:
 
 
 #
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 **Currently listening to:**
 <br/>
 [![Spotify](https://novatorem-ecru-seven.vercel.app/api/spotify)](https://open.spotify.com/user/isiah56?si=4oh8scG7TtG_oZ9cB4P7oQ
@@ -56,6 +57,7 @@ Here are some tidbits:
 
 
 #
+
 
 
 [website]: https://codeSTACKr.com
