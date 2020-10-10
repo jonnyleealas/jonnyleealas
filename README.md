@@ -24,9 +24,15 @@ Here are some tidbits:
 - 💬 Ask me about music, tacos, selvedge denim, and all the internet stuff .
 ```
 
-💻 Try my apps:
+<h2 align='center'></h2>
+<details>
+  <summary>💻 Try my apps:</summary>
+
+ 
 
 [![Linkedin](https://img.shields.io/badge/ChatApp-blue?logo=heroku&logoColor=orange&labelColor=purple)](https://chatter-ball-z.herokuapp.com/)[![Linkedin](https://img.shields.io/badge/Pitchfinder-blue?logo=heroku&logoColor=orange&labelColor=purple)](https://pitch-finder.herokuapp.com/)
+</details> 
+
 #
 
 **Currently listening to:**
@@ -34,13 +40,7 @@ Here are some tidbits:
 [![Spotify](https://novatorem-ecru-seven.vercel.app/api/spotify)](https://open.spotify.com/user/isiah56?si=4oh8scG7TtG_oZ9cB4P7oQ
 )
 
-<h2 align='center'></h2>
-<!-- <details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details> -->
 
 
 ![Anurag's github stats](https://github-readme-stats-lac-mu.vercel.app/api?username=jonnyleealas&count_private=true&show_icons=true&theme=cobalt)
