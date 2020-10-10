@@ -26,7 +26,7 @@ Here are some tidbits:
 
 <h2 align='center'></h2>
 <details>
-  <summary>💻 Try my apps:</summary>
+  <summary>💻 Try my apps:Click</summary>
 
  
 
