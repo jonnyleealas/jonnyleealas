@@ -28,6 +28,12 @@ Here are some tidbits:
 )
 
 <h2 align='center'></h2>
+<!-- <details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details> -->
 
 
 ![Anurag's github stats](https://github-readme-stats-lac-mu.vercel.app/api?username=jonnyleealas&count_private=true&show_icons=true&theme=cobalt)
@@ -50,6 +56,7 @@ Here are some tidbits:
 
 
 #
+
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
