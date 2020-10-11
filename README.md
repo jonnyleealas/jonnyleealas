@@ -21,7 +21,7 @@ Here are some tidbits:
 ```
 - 🔭 I’m currently working API with OAuth .
 - 🤔 I’m looking for help with Jest testing .
-- 💬 Ask me about music, tacos, selvedge denim, and all the internet stuff .
+- 💬 Ask me about music, tacos, selvedge denim, and all the internet stuff.
 ```
 
 <h2 align='center'></h2>
