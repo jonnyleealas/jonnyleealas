@@ -65,8 +65,7 @@ Here are some tidbits:
 
 <details>
   <summary></summary>
-
-[![HitCount](http://hits.dwyl.com/jonnyleealas/jonnyleealas.svg)](http://hits.dwyl.com/jonnyleealas/jonnyleealas)
+![](https://komarev.com/ghpvc/?jonnyleealas=jonnyleealas)
  
 </details> 
 
