@@ -65,7 +65,7 @@ Here are some tidbits:
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <h2 align='center'></h2>
 <details>
-  <summary>Hits</summary>
+  <summary></summary>
 
 [![HitCount](http://hits.dwyl.com/jonnyleealas/jonnyleealas.svg)](http://hits.dwyl.com/jonnyleealas/jonnyleealas)
  
