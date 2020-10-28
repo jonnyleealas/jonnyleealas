@@ -65,9 +65,10 @@ Here are some tidbits:
 
 <details>
   <summary></summary>
-  
-![](https://komarev.com/ghpvc/?jonnyleealas=jonnyleealas)
- 
+
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=jonnyleealas">
+</a>
 </details> 
 
 #
