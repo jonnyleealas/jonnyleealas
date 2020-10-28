@@ -66,7 +66,6 @@ Here are some tidbits:
 
 <h2 align='center'></h2>
 <details>
-  <summary>Hits</summary>
 
 [![HitCount](http://hits.dwyl.com/jonnyleealas/jonnyleealas.svg)](http://hits.dwyl.com/jonnyleealas/jonnyleealas)
  
