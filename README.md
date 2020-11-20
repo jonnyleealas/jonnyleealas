@@ -31,7 +31,7 @@ Here are some tidbits:
 
  
 
-[![Linkedin](https://img.shields.io/badge/ChatApp-blue?logo=heroku&logoColor=orange&labelColor=purple)](https://chatter-ball-z.herokuapp.com/)[![Linkedin](https://img.shields.io/badge/Pitchfinder-blue?logo=heroku&logoColor=orange&labelColor=purple)](https://pitch-finder.herokuapp.com/)
+[![Linkedin](https://img.shields.io/badge/ChatApp-blue?logo=heroku&logoColor=orange&labelColor=purple)](https://chatter-ball-z.herokuapp.com/)[![Linkedin](https://img.shields.io/badge/Pitchfinder-blue?logo=heroku&logoColor=orange&labelColor=purple)](https://pitch-finder.herokuapp.com/)[![Linkedin](https://img.shields.io/badge/SlipUp-blue?logo=npm&logoColor=orange&labelColor=purple)](https://www.npmjs.com/package/codefellows-slipup)
 </details> 
 </br>
 
