@@ -19,7 +19,7 @@ https://simpleicons.org/
 
 Here are some tidbits:
 ```
-- 🔭 Java/ Playframework.
+- 🔭 Javascript and Java.
 - 🤔 I recently learned how to solve a rubik's cube!
 - 💬 Ask me about music, tacos, selvedge denim, and all the internet stuff.
 ```
