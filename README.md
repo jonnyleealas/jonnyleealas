@@ -21,7 +21,7 @@ Here are some tidbits:
 ```
 - 🔭 Javascript and Java.
 - 🤔 I recently learned how to solve a rubik's cube!
-- 💬 Ask me about music, tacos, selvedge denim, and all the internet stuff.
+- 💬 My goal is learn as much as I can about technology.
 ```
 
 <h2 align='center'></h2>
