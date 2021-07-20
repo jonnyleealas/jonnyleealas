@@ -7,16 +7,16 @@ https://gist.github.com/rxaviers/7360908
 https://simpleicons.org/
 
 -->
-<img src="https://user-images.githubusercontent.com/63610026/126246179-a0886ec6-753d-446d-b603-85f10dc82129.gif" align="right" >
+
 
 📫 About Me: 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/jonnyleealas/)
 <h2 align='center'><strong>Hi 👋, I'm Jonny!</strong><br>Pronounced 👉 jon - nee (or) jaw - knee</h2>
 
-
-
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/63610026/126246179-a0886ec6-753d-446d-b603-85f10dc82129.gif"  >
+</div>
 
 Here are some tidbits:
 ```
