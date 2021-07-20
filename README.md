@@ -20,23 +20,25 @@ About Me:
 ```
 - 🔭 Javascript and Java.
 - 🤔 I recently learned how to solve a rubik's cube!
-- 💬 My goal is learn as much as I can about technology so I can build without limit.
+- 💬 My goal is learn as much as I can about technology so I can build without limits.
 ```
 
-<h2 align='center'></h2>
+#
 
 <h3 align="center">
 <details>
   
-  <summary>💻 TRY MY APPS:</summary>
+<summary>💻 TRY MY APPS:</summary>
    
 [![Linkedin](https://img.shields.io/badge/ChatApp-blue?logo=heroku&logoColor=orange&labelColor=purple)](https://chatter-ball-z.herokuapp.com/)[![Linkedin](https://img.shields.io/badge/PitchFinder-blue?logo=heroku&logoColor=orange&labelColor=purple)](https://pitchfinder.herokuapp.com/)[![Linkedin](https://img.shields.io/badge/SlipUp-blue?logo=npm&logoColor=orange&labelColor=purple)](https://www.npmjs.com/package/codefellows-slipup)[![Linkedin](https://img.shields.io/badge/PirateAdventure-blue?logo=npm&logoColor=orange&labelColor=purple)](https://pirate-adventure.surge.sh/)
 
 </details> 
 </h3>
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/63610026/126246179-a0886ec6-753d-446d-b603-85f10dc82129.gif" width="384" height="216">
 </div>
+
 </br>
 
 #
