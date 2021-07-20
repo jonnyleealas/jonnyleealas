@@ -24,7 +24,8 @@ Here are some tidbits:
 - 💬 My goal is learn as much as I can about technology so I can build without limit.
 ```
 
-<h2 align='center'></h2>
+<h2 align='center'></h2>![giphy](https://user-images.githubusercontent.com/63610026/126246179-a0886ec6-753d-446d-b603-85f10dc82129.gif)
+
 <details>
   <summary>💻 TRY MY APPS:</summary>
 
