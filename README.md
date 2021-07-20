@@ -8,7 +8,7 @@ https://simpleicons.org/
 
 -->
 
-
+<!-- intro  -->
 📫 Contact: 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/jonnyleealas/)
@@ -25,6 +25,7 @@ About Me:
 
 #
 
+<!-- try apps  -->
 <h3 align="center">
 <details>
   
@@ -35,6 +36,7 @@ About Me:
 </details> 
 </h3>
 
+<!-- tech nerd gif -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/63610026/126246179-a0886ec6-753d-446d-b603-85f10dc82129.gif" width="384" height="216">
 </div>
@@ -42,25 +44,26 @@ About Me:
 </br>
 
 #
-
-<h4 align="center">Currently listening to:
-
+<!-- spotify -->
+<h3 align="center"> <p>🎧Listening To: </p>
+  
 [![Spotify](https://novatorem-ecru-seven.vercel.app/api/spotify)](https://open.spotify.com/user/isiah56?si=4oh8scG7TtG_oZ9cB4P7oQ
 )
-</h4>
+  
+</h3>
 
 #
   
-
+<!-- github stats -->
 <div align="center">
   
 ![Anurag's github stats](https://github-readme-stats-lac-mu.vercel.app/api?username=jonnyleealas&count_private=true&show_icons=true&theme=cobalt)
 
-  </div>
+</div>
   
 #
 
-
+<!-- tools icons -->
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -76,7 +79,7 @@ About Me:
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
-
+<!-- profile views -->
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=jonnyleealas">
 </a>
