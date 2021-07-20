@@ -11,7 +11,7 @@ https://simpleicons.org/
 📫 About Me: 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/jonnyleealas/)
-<h2 align='center'><strong>Hi 👋, I'm Jonny!</strong></h2>
+<h2 align='center'><strong>Hi 👋, I'm Jonny!</strong><br>Pronounced 👉 jon - nee (or) jaw - knee</h2>
 
 
 
