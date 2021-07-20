@@ -18,7 +18,7 @@ https://simpleicons.org/
 
 About Me:
 ```
-- 👨‍🎓 Currently Apprentice at GOOGlE.
+- 👨‍🎓 Currently Apprentice at GOOGLE.
 - 🔭 Javascript and Java.
 - 🤔 I recently learned how to solve a rubik's cube!
 - 💬 My goal is learn as much as I can about technology so I can build without limits.
