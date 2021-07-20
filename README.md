@@ -7,6 +7,7 @@ https://gist.github.com/rxaviers/7360908
 https://simpleicons.org/
 
 -->
+<img src="https://user-images.githubusercontent.com/63610026/126246179-a0886ec6-753d-446d-b603-85f10dc82129.gif" align="right" >
 
 📫 About Me: 
 
@@ -24,7 +25,8 @@ Here are some tidbits:
 - 💬 My goal is learn as much as I can about technology so I can build without limit.
 ```
 
-<h2 align='center'></h2>![giphy](https://user-images.githubusercontent.com/63610026/126246179-a0886ec6-753d-446d-b603-85f10dc82129.gif)
+<h2 align='center'></h2>
+
 
 <details>
   <summary>💻 TRY MY APPS:</summary>
