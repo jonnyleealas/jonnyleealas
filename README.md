@@ -21,7 +21,7 @@ Here are some tidbits:
 ```
 - 🔭 Javascript and Java.
 - 🤔 I recently learned how to solve a rubik's cube!
-- 💬 My goal is learn as much as I can about technology.
+- 💬 My goal is learn as much as I can about technology so I can build without limit.
 ```
 
 <h2 align='center'></h2>
