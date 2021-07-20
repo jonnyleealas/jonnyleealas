@@ -14,9 +14,7 @@ https://simpleicons.org/
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/jonnyleealas/)
 <h2 align='center'><strong>Hi 👋, I'm Jonny!</strong><br>Pronounced 👉 jon - nee (or) jaw - knee</h2>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/63610026/126246179-a0886ec6-753d-446d-b603-85f10dc82129.gif" width="300" height="200"  >
-</div>
+
 
 About Me:
 ```
@@ -27,14 +25,18 @@ About Me:
 
 <h2 align='center'></h2>
 
-
+<h3 align="center">
 <details>
+  
   <summary>💻 TRY MY APPS:</summary>
-
- 
-
+   
 [![Linkedin](https://img.shields.io/badge/ChatApp-blue?logo=heroku&logoColor=orange&labelColor=purple)](https://chatter-ball-z.herokuapp.com/)[![Linkedin](https://img.shields.io/badge/PitchFinder-blue?logo=heroku&logoColor=orange&labelColor=purple)](https://pitchfinder.herokuapp.com/)[![Linkedin](https://img.shields.io/badge/SlipUp-blue?logo=npm&logoColor=orange&labelColor=purple)](https://www.npmjs.com/package/codefellows-slipup)[![Linkedin](https://img.shields.io/badge/PirateAdventure-blue?logo=npm&logoColor=orange&labelColor=purple)](https://pirate-adventure.surge.sh/)
+
 </details> 
+</h3>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/63610026/126246179-a0886ec6-753d-446d-b603-85f10dc82129.gif" width="384" height="216">
+</div>
 </br>
 
 #
