@@ -15,7 +15,7 @@ https://simpleicons.org/
 <h2 align='center'><strong>Hi 👋, I'm Jonny!</strong><br>Pronounced 👉 jon - nee (or) jaw - knee</h2>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/63610026/126246179-a0886ec6-753d-446d-b603-85f10dc82129.gif"  >
+<img src="https://user-images.githubusercontent.com/63610026/126246179-a0886ec6-753d-446d-b603-85f10dc82129.gif" width="300" height="200"  >
 </div>
 
 Here are some tidbits:
