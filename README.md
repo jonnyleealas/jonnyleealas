@@ -25,7 +25,7 @@ About Me:
 
 #
 
-<h3 align="left">
+<h3 align="center">
 <details>
   
 <summary>💻 TRY MY APPS:</summary>
