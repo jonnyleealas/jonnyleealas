@@ -9,7 +9,7 @@ https://simpleicons.org/
 -->
 
 
-📫 About Me: 
+📫 Contact: 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/jonnyleealas/)
 <h2 align='center'><strong>Hi 👋, I'm Jonny!</strong><br>Pronounced 👉 jon - nee (or) jaw - knee</h2>
@@ -18,7 +18,7 @@ https://simpleicons.org/
 <img src="https://user-images.githubusercontent.com/63610026/126246179-a0886ec6-753d-446d-b603-85f10dc82129.gif" width="300" height="200"  >
 </div>
 
-Here are some tidbits:
+About Me:
 ```
 - 🔭 Javascript and Java.
 - 🤔 I recently learned how to solve a rubik's cube!
