@@ -81,10 +81,11 @@ About Me:
 
 
 <!-- profile views -->
+<div align="right">
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=jonnyleealas">
 </a>
-
+</div>
 
 #
 
