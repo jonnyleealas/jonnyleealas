@@ -66,6 +66,7 @@ About Me:
 
 <!-- tools icons -->
 <div>
+<div>
   
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg" />
@@ -91,6 +92,7 @@ About Me:
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=jonnyleealas">
 </a>
+</div>
 </div>
 
 #
