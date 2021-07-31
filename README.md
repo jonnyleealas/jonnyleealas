@@ -21,13 +21,13 @@ https://simpleicons.org/
 
 <pre>
 <b> 
- 👨‍🎓 Currently an Apprentice at GOOGLE
+ - 👨‍🎓 Currently an Apprentice at GOOGLE
  
- 👨‍💻 Javascript and Java
+ - 👨‍💻 Javascript and Java
  
- 🎓 Code Fellows Coding Academy Graduate
+ - 🎓 Code Fellows Coding Academy Graduate
  
- 🥅 My goal is learn as much as I can about technology so I can build without limits!
+ - 🥅 My goal is learn as much as I can about technology so I can build without limits!
 </b>
 </pre>
 
