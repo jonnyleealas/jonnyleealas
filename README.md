@@ -23,9 +23,9 @@ https://simpleicons.org/
 <b> 
  👨‍🎓 Currently an Apprentice at GOOGLE.
 
- 🔭 Javascript and Java.
+ 👨‍💻 Javascript and Java.
 
- 💬 My goal is learn as much as I can about technology so I can build without limits.
+ 🥅 My goal is learn as much as I can about technology so I can build without limits.
 </b>
 </pre>
 
