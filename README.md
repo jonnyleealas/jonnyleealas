@@ -21,11 +21,11 @@ https://simpleicons.org/
 
 <pre>
 <b> 
- 👨‍🎓 Currently an Apprentice at GOOGLE.
+ 👨‍🎓 Currently an Apprentice at GOOGLE 2021
  
- 👨‍💻 Javascript and Java.
+ 👨‍💻 Javascript and Java
  
- 🎓 2020-2021 Code Fellows Coding Academy Graduate
+ 🎓 Code Fellows Coding Academy Graduate 2020-2021
  
  🥅 My goal is learn as much as I can about technology so I can build without limits!
 </b>
