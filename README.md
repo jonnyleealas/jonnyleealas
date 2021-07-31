@@ -12,17 +12,20 @@ https://simpleicons.org/
 📫 Contact: 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/jonnyleealas/)
-<h2 align='center'><strong>Hi 👋, I'm Jonny!</strong><br>Pronounced 👉 jon - nee (or) jaw - knee</h2>
+<h1 align='center'><strong>Hi 👋, I'm Jonny!</strong><br>Pronounced 👉 jon - nee (or) jaw - knee</h1>
 
 
 
 <h3>About Me:</h3>
-```
-- 👨‍🎓 Currently Apprentice at GOOGLE.
+
+
+<pre>
+<b> 
+- 👨‍🎓 Currently an Apprentice at GOOGLE.
 - 🔭 Javascript and Java.
-- 🤔 I recently learned how to solve a rubik's cube!
 - 💬 My goal is learn as much as I can about technology so I can build without limits.
-```
+</b>
+</pre>
 
 #
 
