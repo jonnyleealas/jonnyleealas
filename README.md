@@ -27,7 +27,8 @@ https://simpleicons.org/
  
  - 🎓 Code Fellows Coding Academy Graduate
  
- - 🥅 My goal is learn as much as I can about technology so I can build without limits!
+ - 🎓 Google IT Certificate 
+ 
 </b>
 </pre>
 
