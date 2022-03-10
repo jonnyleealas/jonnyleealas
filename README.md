@@ -21,9 +21,9 @@ https://simpleicons.org/
 
 <pre>
 <b> 
- - 👨‍🎓 Currently an Apprentice at GOOGLE
+ - 👨‍🎓 Currently an Apprentice at GOOGLE and working on Net+ Cert
  
- - 👨‍💻 Javascript and Java
+ - 👨‍💻 Javascript, Java, Python
  
  - 🎓 Code Fellows Coding Academy Graduate
  
