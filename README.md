@@ -21,7 +21,7 @@ https://simpleicons.org/
 
 <pre>
 <b> 
- - 👨‍🎓 Currently an Apprentice at GOOGLE and working on Net+ Cert
+ - 👨‍🎓 Currently an Apprentice at GOOGLE working on Linux Redhat Certification
  
  - 👨‍💻 Javascript, Java, Python
  
