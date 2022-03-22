@@ -27,6 +27,8 @@ https://simpleicons.org/
  
  - 🎓 Code Fellows Coding Academy Graduate
  
+ - 🎓 Comptia Net+ Certified  
+ 
  - 🎓 Google IT Certificate 
  
 </b>
