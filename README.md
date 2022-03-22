@@ -20,7 +20,7 @@ https://simpleicons.org/
 
 
 <pre>
-
+<b>
  - 👨‍🎓 Currently an Apprentice at GOOGLE working on Linux Redhat Certification
  
  - 👨‍💻 Javascript, Java, Python
@@ -30,7 +30,7 @@ https://simpleicons.org/
  - 🎓 Comptia Net+ Certified  
  
  - 🎓 Google IT Certificate 
-
+</b>
 </pre>
 
 #
