@@ -39,7 +39,7 @@ https://simpleicons.org/
 <h3 align="center">
 <details>
   
-<summary>💻 TRY MY APPS:</summary>
+<summary>💻 Click Me:</summary>
    
 [![Linkedin](https://img.shields.io/badge/ChatApp-blue?logo=heroku&logoColor=orange&labelColor=purple)](https://chatter-ball-z.herokuapp.com/)[![Linkedin](https://img.shields.io/badge/PitchFinder-blue?logo=heroku&logoColor=orange&labelColor=purple)](https://pitchfinder.herokuapp.com/)[![Linkedin](https://img.shields.io/badge/SlipUp-blue?logo=npm&logoColor=orange&labelColor=purple)](https://www.npmjs.com/package/codefellows-slipup)[![Linkedin](https://img.shields.io/badge/PirateAdventure-blue?logo=npm&logoColor=orange&labelColor=purple)](https://pirate-adventure.surge.sh/)
 
