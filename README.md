@@ -58,8 +58,7 @@ https://simpleicons.org/
 <!-- spotify -->
 <h3 align="center"> <p>🎧Listening To: </p>
   
-[![Spotify](https://novatorem-ecru-seven.vercel.app/api/spotify)](https://open.spotify.com/user/isiah56?si=4oh8scG7TtG_oZ9cB4P7oQ
-)
+[![Spotify](https://novatorem-ecru-seven.vercel.app/api/spotify)](https://open.spotify.com/user/isiah56?si=4oh8scG7TtG_oZ9cB4P7oQ)
   
 </h3>
 
