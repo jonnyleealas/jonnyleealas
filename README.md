@@ -47,10 +47,10 @@ https://simpleicons.org/
 </h3>
 
 <!-- tech nerd gif -->
-<div align="center">
+[<div align="center">
 <!-- <img src="https://user-images.githubusercontent.com/63610026/126246179-a0886ec6-753d-446d-b603-85f10dc82129.gif" width="384" height="216"> -->
-[<img src="https://user-images.githubusercontent.com/63610026/182049998-75b389ab-4f1d-408a-b0c7-262c80641a4b.gif" width="384 height="216 />][linkedin]
-</div>
+<img src="https://user-images.githubusercontent.com/63610026/182049998-75b389ab-4f1d-408a-b0c7-262c80641a4b.gif" width="384 height="216 />
+</div>][linkedin]
 
 </br>
 
