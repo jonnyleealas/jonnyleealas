@@ -48,7 +48,8 @@ https://simpleicons.org/
 
 <!-- tech nerd gif -->
 <div align="center">
-[<img src="https://user-images.githubusercontent.com/63610026/182049998-75b389ab-4f1d-408a-b0c7-262c80641a4b.gif" width="384 height="216 />][linkedin]
+<!-- [<img src="https://user-images.githubusercontent.com/63610026/182049998-75b389ab-4f1d-408a-b0c7-262c80641a4b.gif" width="384  />][linkedin] -->
+[<img alt="HTML5" width="384px" height="216px" src="https://user-images.githubusercontent.com/63610026/182049998-75b389ab-4f1d-408a-b0c7-262c80641a4b.gif" />][linkedin]
 </div>
 
 </br>
