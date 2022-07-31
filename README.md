@@ -48,7 +48,8 @@ https://simpleicons.org/
 
 <!-- tech nerd gif -->
 <div align="center">
-<img src="https://user-images.githubusercontent.com/63610026/126246179-a0886ec6-753d-446d-b603-85f10dc82129.gif" width="384" height="216">
+<!-- <img src="https://user-images.githubusercontent.com/63610026/126246179-a0886ec6-753d-446d-b603-85f10dc82129.gif" width="384" height="216"> -->
+<img src="https://giphy.com/embed/3o6EQqGHnGrJ1Dqm1G" width="384 height="216>
 </div>
 
 </br>
