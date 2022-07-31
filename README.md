@@ -50,17 +50,16 @@ https://simpleicons.org/
 <div align="center">
 
 [<img src="https://user-images.githubusercontent.com/63610026/182049998-75b389ab-4f1d-408a-b0c7-262c80641a4b.gif" width="384px" height="216px" />][linkedin]
-
 </div>
 
 </br>
 
 #
-
 <!-- spotify -->
 <h3 align="center"> <p>🎧Listening To: </p>
   
-[![Spotify](https://novatorem-ecru-seven.vercel.app/api/spotify)](https://open.spotify.com/user/isiah56?si=4oh8scG7TtG_oZ9cB4P7oQ)
+[![Spotify](https://novatorem-ecru-seven.vercel.app/api/spotify)](https://open.spotify.com/user/isiah56?si=4oh8scG7TtG_oZ9cB4P7oQ
+)
   
 </h3>
 
@@ -77,8 +76,8 @@ https://simpleicons.org/
 
 <!-- tools icons -->
 <div>
-
 <div>
+  
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg" />][linkedin]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ember/ember.png" />][linkedin]
@@ -109,3 +108,15 @@ https://simpleicons.org/
 
 
 [linkedin]: https://www.linkedin.com/in/jonnyleealas
+[website]: https://codeSTACKr.com
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+
+
