@@ -49,7 +49,7 @@ https://simpleicons.org/
 <!-- tech nerd gif -->
 <div align="center">
 <!-- <img src="https://user-images.githubusercontent.com/63610026/126246179-a0886ec6-753d-446d-b603-85f10dc82129.gif" width="384" height="216"> -->
-[<img src="https://user-images.githubusercontent.com/63610026/182049998-75b389ab-4f1d-408a-b0c7-262c80641a4b.gif" width="384 height="216>][linkedin]
+[<img src="https://user-images.githubusercontent.com/63610026/182049998-75b389ab-4f1d-408a-b0c7-262c80641a4b.gif" width="384 height="216 />][linkedin]
 </div>
 
 </br>
@@ -76,8 +76,8 @@ https://simpleicons.org/
 
 <!-- tools icons -->
 <div>
+
 <div>
-  
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg" />][linkedin]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ember/ember.png" />][linkedin]
