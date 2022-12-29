@@ -12,7 +12,7 @@ https://simpleicons.org/
 📫 Contact: 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/jonnyleealas/)
-[![Resume](https://img.shields.io/badge/Resume-red?logo=Google&logoColor=blue&labelColor=white)](https://docs.google.com/document/d/1cMxd7rDfAk6FPf1cL5yVHLxSC1r6yRTfhcyYXPUgtsY/view#heading=h.pmkbthsrv0xr)
+[![Resume](https://img.shields.io/badge/Resume-red?logo=Google&logoColor=blue&labelColor=white)](https://docs.google.com/document/d/1cMxd7rDfAk6FPf1cL5yVHLxSC1r6yRTfhcyYXPUgtsY/view)
 <h1 align='center'><strong>Hi 👋, I'm Jonny!</strong><br>Pronounced 👉 jon - nee (or) jaw - knee</h1>
 
 
