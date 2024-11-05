@@ -22,11 +22,11 @@ https://simpleicons.org/
 
 <pre>
 <b>
- - 👨‍🎓 Currently an Apprentice at GOOGLE working on Linux Redhat Certification
+ - 👨‍🎓 Google Apprentice 2022
  
- - 👨‍💻 Javascript, Java, Python
+ - 👨‍💻 Javascript, Typscript, Java, React
  
- - 🎓 Code Fellows Coding Academy Graduate
+ - 🎓 Code Fellows Coding Academy 
  
  - 🎓 Comptia Net+ Certified  
  
