@@ -25,7 +25,7 @@ https://simpleicons.org/
  - 👨‍🎓 ex-Google Apprentice 2022
  - 👨‍💻 Javascript, Typscript, Java, React
  - 🎓 Code Fellows Coding Academy 
- - 🎓 Comptia Net+ Certified 
+ - 🎓 Comptia Sec+ Certified 
  - 🎓 Comptia Net+ Certified  
  - 🎓 Google IT Certificate 
 </b>
