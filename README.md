@@ -28,7 +28,8 @@ https://simpleicons.org/
  - 🎓 Code Fellows Coding Academy 
  - 🎓 Comptia Sec+ Certified 
  - 🎓 Comptia Net+ Certified  
- - 🎓 Google IT Certificate 
+ - 🎓 Google IT Certificate
+ - 🎓 Jamf 100 & 200
 </b>
 </pre>
 
