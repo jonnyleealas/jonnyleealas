@@ -23,7 +23,7 @@ https://simpleicons.org/
 <pre>
 <b>
  - 💻 Current Sys Admin II Take 2 Interactive(2k, Zynga, Visual Concepts, Ghost Story, Rockstar)
- - 👨‍🎓 ex-Google Apprentice 2022
+ - 👨‍🎓 Google Apprentice 2022
  - 👨‍💻 Javascript, Typscript, Java, React
  - 🎓 Code Fellows Coding Academy 
  - 🎓 Comptia Sec+ Certified 
